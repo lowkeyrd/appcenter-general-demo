@@ -12,7 +12,7 @@
 
 edition: 1.0.0
 name: hello-world-app
-access: default
+access: default-1
 vars:
   region: cn-hangzhou
   service:
